@@ -5,7 +5,6 @@ A Chrome extension that enhances your ChatGPT experience by providing easy navig
 ## 🌟 Features
 
 - **📋 Prompt Overview**: View all your prompts in a conversation at a glance
-- **🔍 Smart Search**: Quickly find specific prompts using real-time search functionality
 - **🎯 Jump Navigation**: Click any prompt to instantly scroll to it in the conversation
 - **✨ Visual Highlighting**: Automatically highlights the selected prompt for easy identification
 - **🔄 Real-time Updates**: Automatically detects new prompts as you continue your conversation
